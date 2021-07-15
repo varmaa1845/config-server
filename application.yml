@@ -1,0 +1,4 @@
+db.driver: org.postgresql.Driver
+db.url: jdbc:postgresql://192.168.1.92:5432/emergency_response_system
+db.username: postgres
+db.password: promighty007
